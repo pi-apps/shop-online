@@ -2,9 +2,9 @@ PiOS License
 
 Copyright (C) <2023> <PiShop Online>
 
-Permission is hereby granted by the application software developer (“Abarika Mohammed”), free
+Permission is hereby granted by the application software developer (“software Developer”), free
 of charge, to any person obtaining a copy of this application, software and associated 
-documentation files (the “PiShop Online”), which was developed by the Software Developer for use on 
+documentation files (the “Software”), which was developed by the Software Developer for use on 
 Pi Network, whereby the purpose of this license is to permit the development of derivative works 
 based on the Software, including the right to use, copy, modify, merge, publish, distribute, 
 sub-license, and/or sell copies of such derivative works and any Software components incorporated 
