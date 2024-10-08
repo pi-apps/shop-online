@@ -1,0 +1,16 @@
+# .gitlab-ci.yml
+# GitLab CI/CD configuration file
+
+stages:
+  - test
+  - deploy
+
+test:
+  stage: test
+  script:
+    - vendor/bin/phpunit
+
+deploy:
+  stage: deploy
+  script:
+    - ./deploy.sh

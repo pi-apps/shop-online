@@ -1,0 +1,23 @@
+.product-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.product-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.product-list li:last-child {
+  border-bottom: none;
+}
+
+.product-detail {
+  padding: 20px;
+}
+
+.product-detail h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
